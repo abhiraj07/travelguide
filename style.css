@@ -337,7 +337,10 @@ nav ul .fa-solid{
 
 
 
-* {box-sizing:border-box}
+* {
+    box-sizing:border-box;
+    border-radius: 10px;
+  }
 
 /* Slideshow container */
 .slideshow-container {
